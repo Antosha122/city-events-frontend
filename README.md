@@ -2,7 +2,6 @@
 
 React + Vite application for browsing city events, authenticating users, and creating your own events.
 
-## 📑 Меню
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
