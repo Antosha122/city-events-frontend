@@ -2,6 +2,18 @@
 
 React + Vite application for browsing city events, authenticating users, and creating your own events.
 
+## 📑 Меню
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [API Expectations](#api-expectations)
+- [Auth Handling](#auth-handling)
+- [Getting Started](#getting-started)
+- [Environment / Configuration](#environment--configuration)
+- [Available Scripts](#available-scripts)
+- [Notes](#notes)
+
 ## Features
 
 - Events list page (`/events`)
